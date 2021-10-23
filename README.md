@@ -21,3 +21,5 @@ on info (name);
 alter table info
 add primary key (id);
 ```
+
+### 注意这里没有使用spring标准的架构开发
