@@ -1,5 +1,6 @@
 # InfoDemo
 建表语句：
+```
 create table info
 (
 id               int auto_increment,
@@ -19,4 +20,4 @@ on info (name);
 
 alter table info
 add primary key (id);
-
+```
